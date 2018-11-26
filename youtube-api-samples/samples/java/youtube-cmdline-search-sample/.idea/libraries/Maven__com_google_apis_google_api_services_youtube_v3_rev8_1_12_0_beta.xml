@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.google.apis:google-api-services-youtube:v3-rev8-1.12.0-beta">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/apis/google-api-services-youtube/v3-rev8-1.12.0-beta/google-api-services-youtube-v3-rev8-1.12.0-beta.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/apis/google-api-services-youtube/v3-rev8-1.12.0-beta/google-api-services-youtube-v3-rev8-1.12.0-beta-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/apis/google-api-services-youtube/v3-rev8-1.12.0-beta/google-api-services-youtube-v3-rev8-1.12.0-beta-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
